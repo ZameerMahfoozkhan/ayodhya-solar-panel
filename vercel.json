@@ -3,6 +3,12 @@
   "outputDirectory": "dist",
   "cleanUrls": true,
   "trailingSlash": true,
+  "rewrites": [
+    {
+      "source": "/google850e8edb87217210.html",
+      "destination": "/google850e8edb87217210.html"
+    }
+  ],
   "headers": [
     {
       "source": "/assets/fonts/(.*)",
