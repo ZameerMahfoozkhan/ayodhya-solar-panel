@@ -1,0 +1,21 @@
+{
+  "name": "Ayodhya Solar Installation",
+  "short_name": "Ayodhya Solar",
+  "description": "Rooftop solar consultation, installation and maintenance in Ayodhya and Faizabad, Uttar Pradesh.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAF7",
+  "theme_color": "#121417",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

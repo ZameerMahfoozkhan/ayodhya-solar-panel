@@ -1,0 +1,20 @@
+{
+  "name": "ayodhya-solar-installation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "High-performance production rooftop solar installation website for Ayodhya and Faizabad, UP",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "process-images": "python scripts/process_images.py",
+    "dev": "node scripts/dev-server.js",
+    "start": "node scripts/dev-server.js"
+  },
+  "keywords": [
+    "solar panel installation ayodhya",
+    "rooftop solar faizabad",
+    "pm surya ghar ayodhya",
+    "solar subsidy uttar pradesh"
+  ],
+  "author": "Ayodhya Solar Installation",
+  "license": "UNLICENSED"
+}

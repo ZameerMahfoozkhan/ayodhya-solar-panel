@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ayodhya-solar-panel.vercel.app/sitemap.xml
